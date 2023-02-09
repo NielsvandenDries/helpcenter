@@ -1,5 +1,5 @@
 {
-    "name": "OpenMindedIT/helpcenter-plugin",
+    "name": "nvandendriesdev/helpcenter-plugin",
     "type": "october-plugin",
     "description": "OmitCentral helpcenter Plugin",
     "require": {
